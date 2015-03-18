@@ -1,6 +1,6 @@
 ## Bienvenu(e) sur l'espace de contribution du forum ouvert du 17 mars
 
-### FORUM OUVERT : DÉCHETS ET NUMÉRIQUE : ENJEUX ET OPPORTUNITÉS
+### FORUM OUVERT "DÉCHETS ET NUMÉRIQUE" : ENJEUX ET OPPORTUNITÉS
 
 Les ateliers du matin sont consacrés aux questions :
 Pourquoi le numérique peut être un outil permettant de réduire et de mieux recycler les déchets ?
