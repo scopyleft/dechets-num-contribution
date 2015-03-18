@@ -25,6 +25,3 @@ Déroulé
 * 16h00 - Restitution et informelles
 * 16h30 - Clôture collective
 * 17h00 - Informelles
-
-### Accès wifi
-Connectez vous sur "invitecg33" et inscrire vos codes d'accès ("Utilisateur" et "Mot de passe") indiqués sur votre badge.
