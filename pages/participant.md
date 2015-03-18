@@ -1,1 +1,1 @@
-# Trouver la bonne ressource
+# Trouver un participant
