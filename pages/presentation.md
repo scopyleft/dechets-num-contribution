@@ -6,7 +6,8 @@ Les ateliers du matin sont consacrés aux questions :
 Pourquoi le numérique peut être un outil permettant de réduire et de mieux recycler les déchets ?
 Pourquoi faire se rencontrer le monde des déchets et le monde du numérique ?
 Les ateliers de l'après-midi sont consacrés à la question "Comment ?"
-Déroulé     
+
+## Déroulé     
 
 * 09h00 - Accueil des arrivants
 * 09h15 - Icebreaker - "Constellation"
