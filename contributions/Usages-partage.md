@@ -32,8 +32,8 @@ Collectivité / bailleur social / association / ouishare / Créer une associatio
 
 + stickers (3D ?) sur boite aux lettres pour indiquer les objets que l'on souhaite partager / comme cela se fait en Suisse : 
 
-[voir article sur trendsnow.net] (http://www.trendsnow.net/2014/09/pumpipumpe-des-stickers-pour-partager-entre-voisins.html)
+-> [voir article sur trendsnow.net](http://www.trendsnow.net/2014/09/pumpipumpe-des-stickers-pour-partager-entre-voisins.html)
 
-[Projet "Pumpipumpe"] (http://www.pumpipumpe.ch/commande-dautocollants/)
+-> [Projet "Pumpipumpe"](http://www.pumpipumpe.ch/commande-dautocollants/)
 
 + capteur opensource qui fait remonter la disponibilité de l'objet partagé
