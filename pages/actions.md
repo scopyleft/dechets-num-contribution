@@ -19,10 +19,13 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 
 ### 2 gommettes vertes (je vote pour) / 2 gommettes bleue (je participe)
 
-Double action : 
-+ je mets sur ma boite aux lettre des stickers (en 3D?) pour indiquer aux voisins quels objets ou outils ils peuvent m'emprunter
++ stickers (3D ?) sur boite aux lettres pour indiquer les objets que l'on souhaite partager / comme cela se fait en Suisse : 
 
-+ on fait fabriquer par des fablabs des capteurs que l'on met sur les objets que l'on souhaite partager -> les capteurs indiquent en temps réels sur une application les objets qui sont disponibles dans le voisinage
+-> [voir article sur trendsnow.net](http://www.trendsnow.net/2014/09/pumpipumpe-des-stickers-pour-partager-entre-voisins.html)
+
+-> [Projet "Pumpipumpe"](http://www.pumpipumpe.ch/commande-dautocollants/)
+
++ capteur opensource qui fait remonter la disponibilité de l'objet partagé
 
 ## 3- Objets connecté
 
