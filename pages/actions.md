@@ -16,7 +16,7 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 
 = activité économique du territoire * ratio de production de déchets par type d'activité
 
-## 3- Je partage mes objets
+## 3 ex-aequo- Je partage mes objets
 
 2 gommettes vertes (je vote pour) / 2 gommettes bleue (je participe)
 
@@ -28,7 +28,7 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 
 + capteur opensource qui fait remonter la disponibilité de l'objet partagé
 
-## 3- Objets connectés
+## 3 ex-aequo- Objets connectés
 
 2 gommettes vertes (je vote pour) / 2 gommettes bleue (je participe)
 
