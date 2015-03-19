@@ -32,16 +32,27 @@ Question de la légitimité de caractérisation du flux ? L'ADEME ?
 Que veut dire caractérisation de flux ? il s'agit de qualifier le déchet et de lui 
 
 ## Enjeu de la qualité de la donnée 
+
 Proposition : s'entendre sur un standard de caractérisation
+
 Question de la nature de la donnée
+
 Attention : métiers et informations techniques.
+
 Alors, de quoi parle-ton, en terme d'information auprès du public ? que veut-on leur transmettre ?
+
 Relativité des données d'un territoire à l'autre
+
 difficulté d'avoir un outil de comparaison des coûts du déchet
+
 mettre en relation le coût du déchet et la notion de services associés
+
 Attention : si la collectivité ne se saisit pas de cette question, il risque d'y avoir d'ature sacteurs (google) qui vont s'en emparer
-Enjeu : le rôle de la collectivité / notion de tiers de confiance par rapport à l'interprétation des données
-n'y a t'ilpas un jeu type de données qui doit être ouvert et qui doit inscrit dans la constitution.
+
+## Enjeu : le rôle de la collectivité / notion de tiers de confiance par rapport à l'interprétation des données
+
+## n'y a t'il pas un jeu type de données qui doit être ouvert et qui doit inscrit dans la constitution.
+
 Pécision sur l'objectif : au delà de la sensibilisation, il s'agit de réduire les déchets et de mobiliser les citoyens vers cet objectif.
 Pour capter l'intérêt des citoyens, attirer leur attention, il n'est peut-être pas besoin d'aller sur un outil trop évolué
 l'incitation tarifaire est un moyen de mobiliser
