@@ -31,7 +31,10 @@ Pour communiquer sur les initiatives de prévention
 # Actions :
 
 Connecter bocal/local avec les outils du numérique
+-> [Bocal local](https://fr-fr.facebook.com/lebocallocal)
 
 Faire connaître les actions listées (et les ajouter à l'appli de Bdx-Métropole)
+-> [Réseau REGAL](http://www.reseau-regal-aquitaine.org/)
 
 Reproduire la solution de suivi des composteurs du LabFab de Rennes
+-> [LabFab de Rennes](http://www.labfab.fr/portfolio/)
