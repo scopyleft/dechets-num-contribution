@@ -11,9 +11,24 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 
 ## 2- Simulateur de tonnages
 
+### 2 gommettes vertes (je vote pour) / 3 gommettes bleue (je participe)
+
 = activité économique du territoire * ratio de production de déchets par type d'activité
 
-## 3- 
+## 3- Je partage mes objets
+
+### 2 gommettes vertes (je vote pour) / 2 gommettes bleue (je participe)
+
+Double action : 
++ je mets sur ma boite aux lettre des stickers (en 3D?) pour indiquer aux voisins quels objets ou outils ils peuvent m'emprunter
+
++ on fait fabriquer par des fablabs des capteurs que l'on met sur les objets que l'on souhaite partager -> les capteurs indiquent en temps réels sur une application les objets qui sont disponibles dans le voisinage
+
+## 3- Objets connecté
+
+### 2 gommettes vertes (je vote pour) / 2 gommettes bleue (je participe)
+
+Composteur connecté -> coup de fourche collectif
 
 
 # Les autres actions proposées mais non retenues
