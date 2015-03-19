@@ -54,6 +54,6 @@ Créer une association
 
 # Action double :
 
-    stickers (3D ?) des objets que l'on souhaite partager
+    stickers (3D ?) sur boite aux lettres pour indiquer les objets que l'on souhaite partager (comme cela se fait en Suisse : http://www.trendsnow.net/2014/09/pumpipumpe-des-stickers-pour-partager-entre-voisins.html)
 
     + capteur opensource qui fait remonter la disponibilité de l'objet partagé
