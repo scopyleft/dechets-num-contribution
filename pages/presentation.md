@@ -1,10 +1,11 @@
-## Bienvenu(e) sur l'espace de contribution du forum ouvert du 17 mars
+# FORUM OUVERT "DÉCHETS ET NUMÉRIQUE" : ENJEUX ET OPPORTUNITÉS
 
-### FORUM OUVERT "DÉCHETS ET NUMÉRIQUE" : ENJEUX ET OPPORTUNITÉS
+## Bienvenu(e) sur l'espace de contribution du forum ouvert du 17 mars 2015
 
-Les ateliers du matin sont consacrés aux questions :
-Pourquoi le numérique peut être un outil permettant de réduire et de mieux recycler les déchets ?
-Pourquoi faire se rencontrer le monde des déchets et le monde du numérique ?
+Les ateliers du matin sont consacrés à la question "Pourquoi ?" :
++ Pourquoi le numérique peut être un outil permettant de réduire et de mieux recycler les déchets ?
++ Pourquoi faire se rencontrer le monde des déchets et le monde du numérique ?
+
 Les ateliers de l'après-midi sont consacrés à la question "Comment ?"
 
 ## Déroulé     
@@ -26,3 +27,5 @@ Les ateliers de l'après-midi sont consacrés à la question "Comment ?"
 * 16h00 - Restitution et informelles
 * 16h30 - Clôture collective
 * 17h00 - Informelles
+
+-> [Flyer du forum](https://www.smore.com/762c8)
