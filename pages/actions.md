@@ -1,5 +1,3 @@
-# Actions
-
 ## 1- Plate-forme web pour visualiser ses performances de gestion des déchets
 
 Gain de points pour ces performances / Dépense des points sur des activités / Journées offertes par des associations se reconnaissant dans ces valeurs (associations du quartier)
