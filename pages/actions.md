@@ -36,8 +36,22 @@ Composteur connecté -> coup de fourche collectif
 
 # Les autres actions proposées mais non retenues
 
-## 3- Accès à la base de donnée sur les horaires (dechets-aquitaine.fr -> 6element)
+## 5- Accès à la base de donnée sur les horaires (dechets-aquitaine.fr -> 6element)
+
+### 2 gommettes vertes (je vote pour) / 1 gommette bleue (je participe)
 
 -> [Déchets Aquitaine](http://www.dechets-aquitaine.fr/)
 
 -> [6element](https://vallettea.github.io/talks/papis.io.html#slide-0)
+
+## 6- Catalogue des expérimentations en matière de systèmes d'informations "déchets" pour mutualiser
+
+### 1 gommette verte (je vote pour) / 2 gommettes bleue (je participe)
+
+## 7- Un réseau de citoyens "augmentés" avec des moyens techniques et financiers donnés par la collectivité avec le numérique comme outil de relation (descente et montée d'information)
+
+### 0 gommette verte (je vote pour) / 2 gommettes bleue (je participe)
+
+
+
+
