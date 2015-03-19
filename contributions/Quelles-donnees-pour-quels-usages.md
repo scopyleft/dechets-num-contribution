@@ -3,7 +3,6 @@
 ## Problématique : 
 
 Les usages numériques à développer pour contribuer aux objectifs du plan départemental de gestion des déchets non dangereux dépendent en partie des données disponibles ou des modalités permettant de les générer de manière collectives.
-================================================
 
 ## Quelles sont les données actuellement disponibles ?
 typologie :
