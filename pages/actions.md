@@ -47,9 +47,11 @@ Accès à la base de donnée sur les horaires (dechets-aquitaine.fr -> 6element)
 
 -> [6element](https://vallettea.github.io/talks/papis.io.html#slide-0)
 
-## 6- Catalogue des expérimentations en matière de systèmes d'informations "déchets" pour mutualiser
+## 6- Mutualisation des systèmes d'informations "déchets"
 
 1 gommette verte (je vote pour) / 2 gommettes bleue (je participe)
+
+Catalogue des expérimentations en matière de systèmes d'informations "déchets" pour mutualiser
 
 ## 7- Réseau de citoyens "augmentés"
 
