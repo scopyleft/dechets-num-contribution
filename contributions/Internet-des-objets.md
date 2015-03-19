@@ -2,7 +2,7 @@
 
 Objectifs : réduction réelle des déchets
 
-Projet ANTS Alexandre Valette (@valettea)
+-> [Projet 6element](https://vallettea.github.io/talks/papis.io.html#slide-0) ANTS Alexandre Valette (@valettea)
 
 ## Norbert fait passer des octets aux atomes avec une carte Arduino
 
@@ -43,5 +43,6 @@ Responsabilisation, droits et libertés vs. volonté / norme collectives de l'in
 # Application
 
 Un composteur collectif qui réclame des déchets à ses utilisateurs connectés en réseau social de collectivité. Pourrait s'appliquer à des objets à usage collectif (outils...)
+-> [LabFab de Rennes](http://www.labfab.fr/portfolio/)
 
 FINI !
