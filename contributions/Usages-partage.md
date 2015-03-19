@@ -1,6 +1,6 @@
 ## Atelier : Repartir des usages > partage d'objets
 
-### Interroger les usages
+# Interroger les usages
 
 Etude des usages et des besoins et pour des nouveaux concepts de déchèteries en  Gironde
 
