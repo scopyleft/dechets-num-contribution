@@ -30,7 +30,7 @@ Collectivité / bailleur social / association / ouishare / Créer une associatio
 
 # Action double :
 
-stickers (3D ?) sur boite aux lettres pour indiquer les objets que l'on souhaite partager / comme cela se fait en Suisse : 
++ stickers (3D ?) sur boite aux lettres pour indiquer les objets que l'on souhaite partager / comme cela se fait en Suisse : 
 
 [voir article sur trendsnow.net] (http://www.trendsnow.net/2014/09/pumpipumpe-des-stickers-pour-partager-entre-voisins.html)
 
