@@ -90,6 +90,9 @@ umap
 ## Ressources : 
 
 les données OSM (extraction via l'API overpass)
+
 amenity=recycling
+
 recycling_type=centre
+
 catalogue datalocale
