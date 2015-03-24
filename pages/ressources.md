@@ -32,4 +32,4 @@
 
 -> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
 
--> [Glossaire Numérique](
+-> [Glossaire Numérique - A compléter](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-numerique)
