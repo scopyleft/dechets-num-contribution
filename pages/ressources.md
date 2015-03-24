@@ -28,3 +28,8 @@
 
 + Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
 
+## Glossaires
+
+-> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
+
+-> [Glossaire Numérique](
