@@ -26,15 +26,17 @@ Il existe différentes catégories de crowdsourcing : crowdcreation, crowdvoting
 
 ## Crowdcreation
 
-Le recours au travail de la foule. Exemples :
-http://forestwatchers.net/
-http://fold.it/ 
+Le recours au travail de la foule. 
+Exemples :
+-> [Forestwatchers](http://forestwatchers.net/)
+-> [Fold.it](http://fold.it/)
 
 ## Crowdfunding
 
-Le recours au financement de la foule. Exemples : 
-https://www.mymajorcompany.com/  
-http://www.kisskissbankbank.com/  
+Le recours au financement de la foule. 
+Exemples : 
+-> [Mymajorcompany](https://www.mymajorcompany.com/) 
+-> [Kisskissbankbank](http://www.kisskissbankbank.com/)
 
 ## Crowdvoting
 
@@ -57,14 +59,12 @@ Compilation des mots "Hacking" (Bidouiller) et "Marathon". Marathon de création
 ## Java script
 
 ## Licence CC BY-SA
-
+Licence Creative Commons
 -> [Lien](https://creativecommons.org/licenses/by-sa/2.0/fr/)
 
 ## Licence MIT
 
 ## Licence ODBL
-
-## Licence
 
 ## Linux
 
