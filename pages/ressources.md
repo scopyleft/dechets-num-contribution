@@ -14,11 +14,9 @@
 
 -> [Carte de la Coopérative des Tiers-Lieux](http://coop.tierslieux.net/espace-ouverts-et-en-projets/)
 
--> [Carte OpenStreetMap](http://umap.openstreetmap.fr/fr/map/co-working-aquitaine_33176#7/43.620/0.275)
+### Crowdsourcing pour une cartographie "déchets et numérique" ouverte en Gironde : recycleries, déchèteries, points d'apport volontaire, tiers-lieux, fablabs, ...
 
-### Crowdsourcing pour une cartographie "déchets et numérique" ouverte en Gironde
-
--> [Lien](http://umap.openstreetmap.fr/fr/map/dechets-et-numerique_31735#9/44.8383/-0.6317)
+-> [Carte Umap/OpenStreetMap](http://umap.openstreetmap.fr/fr/map/dechets-et-numerique_31735#9/44.8383/-0.6317)
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
