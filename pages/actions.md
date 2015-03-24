@@ -59,6 +59,30 @@ Un réseau de citoyens "augmentés" avec des moyens techniques et financiers don
 
 0 gommette verte (je vote pour) / 2 gommettes bleue (je participe)
 
+## 8- Plateforme locale de services déchets
 
+Créer une plateforme numérique locale de services déchets à l'attention des professionnels (cahier des charges simple, promotion par un label éco-défi déchets)
+
+0 gommette verte (je vote pour) / 2 gommettes bleue (je participe)
+
+## 9- Urbanisme, architecture et déchets
+
+Démarche de co-construction participative. Sonder-interroger les professionnels de l'urbanisme (aménageurs, promoteurs, architectes, ...) pour réfléchir à de nouvelles formes d'urbanisme et d'architecture au delà des prescriptions règlementaires pour optimiser la gestion des déchets au quotidien en phase chantier et en phase utilisation.
+
+0 gommette verte (je vote pour) / 1 gommette bleue (je participe)
+
+## 10- Connecter Bocal Local
+
+Avec des acteurs numériques locaux
+
+0 gommette verte (je vote pour) / 1 gommette bleue (je participe)
+
+## 11- Familles mini déchets
+
+[Famille zéro déchet à San Francisco](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/12/18/un-mode-de-vie-sans-dechets-possible/)
+
+[Famille "Tritout" à Montpellier](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/20/106/)
+
+0 gommette verte (je vote pour) / 1 gommette bleue (je participe)
 
 
