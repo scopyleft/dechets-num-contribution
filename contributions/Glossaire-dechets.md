@@ -1,29 +1,29 @@
-Glossaire Déchets
+# Glossaire Déchets
 
-    Biodéchets
+## Biodéchets
 
 Fraction organique, dite aussi fermentescible, des ordures ménagères. Il s’agit principalement des déchets de cuisine, épluchures, restes de repas.
 
-    Biogaz
+## Biogaz
 
 Gaz produit par la dégradation de la matière organique en absence d'oxygène. Il est principalement composé de méthane et de gaz carbonique. Il est également composé d'autres gaz à base de soufre qui lui donnent une odeur désagréable.
 
-    Centre de Stockage
+## Centre de Stockage
 
 Lieu de stockage permanent des déchets. Anciennement appelé Centre d’Enfouissement Technique (CET) ou Centre de Stockage de Déchets Ultimes (CSDU). On parle maintenant d’Installation de Stockage de Déchets (ISD). On en distingue 3 sortes :
 
-    Les Installations de Stockage de Déchets Dangereux (ISDD). Les déchets dangereux sont par exemple les déchets toxiques, les résidus d’épuration des fumées d’incinération, les terres fortement polluées,
++ Les Installations de Stockage de Déchets Dangereux (ISDD). Les déchets dangereux sont par exemple les déchets toxiques, les résidus d’épuration des fumées d’incinération, les terres fortement polluées,
 
-    Les Installations de Stockage de Déchets Non Dangereux (ISDND). Les déchets non dangereux sont par exemple les ordures ménagères résiduelles, le tout-venant de déchèterie, les déchets d’emballage (papier, carton, plastique, verre, métal),
++ Les Installations de Stockage de Déchets Non Dangereux (ISDND). Les déchets non dangereux sont par exemple les ordures ménagères résiduelles, le tout-venant de déchèterie, les déchets d’emballage (papier, carton, plastique, verre, métal),
 
-    Les Installations de Stockage de Déchets Inertes (ISDI) pour les déblais et gravats.
++ Les Installations de Stockage de Déchets Inertes (ISDI) pour les déblais et gravats.
 
 
-    Centre de transfert
+## Centre de transfert
 
 Centre dans lequel plusieurs camions bennes transfèrent leurs déchets dans un camion semi-remorque qui ensuite les amène jusqu’à leur usine de recyclage ou de traitement.
 
-    Centre de tri
+## Centre de tri
 
 Centre dans lequel les déchets recyclables sont triés par type de matériau puis compressés en balles ou en paquets pour faciliter leur transport jusqu’à leurs usines de recyclageCentre de tri : centre dans lequel les déchets recyclables sont triés par type de matériau puis compressés en balles ou en paquets pour faciliter leur transport jusqu’à leurs usines de recyclage.
 
