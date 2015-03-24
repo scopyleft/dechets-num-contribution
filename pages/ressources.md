@@ -16,9 +16,9 @@
 
 -> [Carte OpenStreetMap](http://umap.openstreetmap.fr/fr/map/co-working-aquitaine_33176#7/43.620/0.275)
 
-### Cartes des tiers-lieux "numérique" en Aquitaine (espaces de co-working, fablabs, ...)
+### Crowdsourcing pour une cartographie "déchets et numérique" ouverte en Gironde
 
--> [Carte de la Coopérative des Tiers-Lieux](http://coop.tierslieux.net/espace-ouverts-et-en-projets/)
+-> [Lien](http://umap.openstreetmap.fr/fr/map/dechets-et-numerique_31735#9/44.8383/-0.6317)
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
