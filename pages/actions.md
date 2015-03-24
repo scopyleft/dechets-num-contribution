@@ -79,10 +79,41 @@ Avec des acteurs numériques locaux
 
 ## 11- Familles mini déchets
 
-[Famille zéro déchet à San Francisco](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/12/18/un-mode-de-vie-sans-dechets-possible/)
+Développer un jeu/concours sur l'exemple du jeu des familles à énergie positive organisé par Bordeaux Métropole. 
+Quelques exemples :
 
 [Famille "Tritout" à Montpellier](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/20/106/)
 
+[Famille zéro déchet à San Francisco](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/12/18/un-mode-de-vie-sans-dechets-possible/)
+
 0 gommette verte (je vote pour) / 1 gommette bleue (je participe)
 
+## 12- Appli de l'éco-festivalier
 
+Création d'une appli smartphone pour s'inscrire à une manifestation qui permettrait de faire le bilan de l'impact environnemental de la personne participant (valorisation du covoiturage, de l'utilisation du gobelet réutilisable, du tri des déchets, ...) -> Remise/cadeau sur la prochaine manifestation si le résultat est bon
+
+0 gommette verte (je vote pour) / 1 gommette bleue (je participe)
+
+## 13- Datavisualisation / Infographie
+
+Chaque année, une info donnée aux citoyens pour faire comprendre un ensemble de données
+
+0 gommette verte (je vote pour) / 0 gommette bleue (je participe)
+
+## 14- Faire connaître les actions
+
+Faire connaître les actions listées (les ajouter aux applis existantes)
+
+0 gommette verte (je vote pour) / 0 gommette bleue (je participe)
+
+## 15- Libération des données utiles
+
+Le Département consulte les parties prenantes pour savoir de quelles données elles auraient besoin. A partir de là, procéder à un vote sur les données à libérer.
+
+0 gommette verte (je vote pour) / 0 gommette bleue (je participe)
+
+## 16- Objet connecté / visualisation de données
+
+Objet connecté dans la cuisine avec visualisation du volume produit et d'un rapport avec les statistiques individuelles, du quartier, de la collectivité, ...
+
+0 gommette verte (je vote pour) / 0 gommette bleue (je participe)
