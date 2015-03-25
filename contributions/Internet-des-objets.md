@@ -1,4 +1,4 @@
-# Atelier 5 : internet des objets
+# Atelier 4 : internet des objets
 
 Objectifs : réduction réelle des déchets
 
