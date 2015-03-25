@@ -1,4 +1,4 @@
-# COMMENT LE NUMERIQUE PEUT SERVIR L'URBANISME DANS LA GESTION ET LA PREVENTION DES DECHETS (Smart city, quartier intelligent...)
+# Atelier 7 : COMMENT LE NUMERIQUE PEUT SERVIR L'URBANISME DANS LA GESTION ET LA PREVENTION DES DECHETS (Smart city, quartier intelligent...) ?
 
 session 1 - espace vert
 
