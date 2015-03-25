@@ -1,6 +1,6 @@
 # Ateliers
 
-Rendus des ateliers du forum du 17 mars 2015
+Rendus des ateliers du forum du 17 mars 2015 :
 
 -> [Atelier 1 : numérique et déchets organiques : que peut-on imaginer ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Dechets-organiques)
 
