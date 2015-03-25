@@ -21,14 +21,14 @@ Montrer les déchets produits pour faire comprendre l'importance du sujet, faire
 
 À noter que, tant pour la question du sens que pour la sensibilisation, des datavisualisations bien fichues pourraient être intéressantes.
 
-Et quelques projets dans la veille qui parlent de près ou de loin de ces sujets :
-https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/08/vortex/
-https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/12/green-loop/
-https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/20/7-days-of-garbage/
+Et quelques projets dans la veille de [l'étude pour des nouveaux concepts de déchèteries en Gironde](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-1) qui parlent de près ou de loin de ces sujets :
+-> [Vortex, La Haye, Pays-Bas](https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/08/vortex/)
+-> [Green Loop, New-York, Etats-Unis](https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/12/green-loop/)
+-> [7 days of garbage, Californie, Etats-Unis](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/20/7-days-of-garbage/)
 
-Et dans la veille à Saint-Étienne (en pj.) :
-#25 Hotel poubelle
-#26 Archéologie domestique http://legoville.net/archeologie_domestique.html
+Et dans la veille de [l'étude de Saint-Etienne Métropole](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-0):
+#25 Hôtel poubelle
+#26 [Archéologie domestique](http://legoville.net/archeologie_domestique.html)
 #34 Réanim
 #35 Tout sur roulettes
 
@@ -39,8 +39,8 @@ Et dans la veille à Saint-Étienne (en pj.) :
 ## Solutions numériques : 
 
 Les poubelles pourraient devenir des objets, des meubles intelligents et agréables.
- la question de l’accessibilité des informations et des mises en pratique du tri 
-  la question de la rétribution (même symbolique) des habitants
++ la question de l’accessibilité des informations et des mises en pratique du tri 
++ la question de la rétribution (même symbolique) des habitants
 
 ## Ressources : 
 
