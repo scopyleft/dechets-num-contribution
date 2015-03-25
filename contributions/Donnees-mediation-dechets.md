@@ -1,4 +1,4 @@
-# Atelier : données, médiation, déchets
+# Atelier 2 : données, médiation, déchets
 
 ## Avant-propos 
 
