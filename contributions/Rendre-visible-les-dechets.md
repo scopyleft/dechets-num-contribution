@@ -1,4 +1,4 @@
-# Atelier 1 : Rendre visible les déchets
+# Atelier 6 : Rendre visible les déchets
 
 ## Problématique : 
 
