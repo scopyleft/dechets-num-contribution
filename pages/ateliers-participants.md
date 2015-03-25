@@ -12,7 +12,7 @@ Rendus des ateliers du forum du 17 mars 2015
 
 -> [Atelier 5 : Quelles données pour quels usages ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Quelles-donnees-pour-quels-usages)
 
--> []()
+-> [Atelier 6 : Rendre visible les déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Rendre-visible-les-dechets)
 
 -> []()
 
