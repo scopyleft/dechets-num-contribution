@@ -1,4 +1,4 @@
-# Atelier 7 : Numérique et déchets organiques : que peut-on imaginer ?
+# Atelier 1 : Numérique et déchets organiques : que peut-on imaginer ?
 
 ## Constats :
 
