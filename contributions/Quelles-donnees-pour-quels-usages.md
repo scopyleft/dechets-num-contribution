@@ -1,4 +1,4 @@
-# Atelier 5 : Quelles données pour quels usages ?
+# Atelier 5 : quelles données pour quels usages ?
 
 ## Problématique : 
 
