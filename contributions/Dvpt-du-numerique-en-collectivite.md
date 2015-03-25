@@ -1,4 +1,4 @@
-# Atelier : développement du numérique dans les collectivités
+# Atelier 3 : développement du numérique dans les collectivités
 
 ## quels freins ?
 
