@@ -16,12 +16,11 @@ Rendus des ateliers du forum du 17 mars 2015
 
 -> [Atelier 7 : comment le numérique peut servir l'urbanisme dans la prévention et la gestion des déchets (Smart city, quartier intelligent...) ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Urbanisme-dechets-numerique)
 
--> []()
+-> [Atelier 8 : Repartir des usages > partage d'objets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Usages-partage)
 
--> []()
 
 # Participants
 
--> [Liste et contacts des participants du forum du 17 mars 2015](
+-> [Liste et contacts des participants du forum du 17 mars 2015](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-4)
 
 
