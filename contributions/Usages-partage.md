@@ -1,4 +1,4 @@
-# Atelier : Repartir des usages > partage d'objets
+# Atelier 8 : Repartir des usages > partage d'objets
 
 ## Interroger les usages
 
