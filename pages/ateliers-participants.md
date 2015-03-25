@@ -10,11 +10,11 @@ Rendus des ateliers du forum du 17 mars 2015
 
 -> [Atelier 4 : internet des objets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Internet-des-objets)
 
--> [Atelier 5 : Quelles données pour quels usages ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Quelles-donnees-pour-quels-usages)
+-> [Atelier 5 : quelles données pour quels usages ? ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Quelles-donnees-pour-quels-usages)
 
--> [Atelier 6 : Rendre visible les déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Rendre-visible-les-dechets)
+-> [Atelier 6 : rendre visible les déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Rendre-visible-les-dechets)
 
--> [Atelier 7 : COMMENT LE NUMERIQUE PEUT SERVIR L'URBANISME DANS LA GESTION ET LA PREVENTION DES DECHETS (Smart city, quartier intelligent...) ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Urbanisme-dechets-numerique)
+-> [Atelier 7 : comment le numérique peut servir l'urbanisme dans la prévention et la gestion des déchets (Smart city, quartier intelligent...) ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Urbanisme-dechets-numerique)
 
 -> []()
 
