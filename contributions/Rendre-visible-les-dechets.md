@@ -7,14 +7,17 @@ Comment intégrer d’avantage la question du tri, de la collecte, de la visibil
 
 ### La question sociétale
 Si mieux "accepter" les déchets c'est accepter qu'ils soient visibles, comment faire quand la tendance est à des appartements, des maisons + jardins et des villes "aseptisées", c'est à dire propres et bien rangés. Il est à noter que dans nos travaux en Gironde c'est un point important au vu de l'importance que prend la problématique des déchets verts (pour le dire vite, si les gens acceptaient un petit tas d'herbe et de branches au fond du jardin, on en serait pas à industrialiser le traitement de tonnes de déchets verts)
-Lien possible avec la partie II/ LE STOCKAGE : LIMINARITÉ, BASCULEMENT ET FLUX du rapport d'analyse de l'étude de Saint-Etienne Métropole.
+Lien possible avec la partie II/ LE STOCKAGE : LIMINARITÉ, BASCULEMENT ET FLUX du rapport d'analyse de [l'étude de Saint-Etienne Métropole](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-0).
 
-> La question du sens : pour inciter les gens à trier, leur faire comprendre ce que deviennent ensuite les déchets (dans les aspects positifs type ma bouteille devient une polaire, comme dans les aspects négatifs type "ça sera brûlé ou enterré")
+### La question du sens
+Pour inciter les gens à trier, leur faire comprendre ce que deviennent ensuite les déchets (dans les aspects positifs type ma bouteille devient une polaire, comme dans les aspects négatifs type "ça sera brûlé ou enterré").
 
-> La question de la valeur des déchets : pour que les gens jettent moins, pour favoriser la réutilisation et la revalorisation, faire comprendre la valeur des objets/déchets. Comment valoriser ? Mettre en scène ? Redesigner ? Donner des idées de réutilisations ? ...
-Lien possible avec la partie III/ LA VALEUR DES DÉCHETS du rapport d'analyse de l'étude de SEM.
+### La question de la valeur des déchets
+Pour que les gens jettent moins, pour favoriser la réutilisation et la revalorisation, faire comprendre la valeur des objets/déchets. Comment valoriser ? Mettre en scène ? Redesigner ? Donner des idées de réutilisations ? ...
+Lien possible avec la partie III/ LA VALEUR DES DÉCHETS du rapport d'analyse de [l'étude de Saint-Etienne Métropole](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-0).
 
-> L'aspect sensibilisation : montrer les déchets produits pour faire comprendre l'importance du sujet, faire visiter les centres de tri et d'enfouissement (en rapport également avec la question du sens), mettre en scène les déchets produits dans des installations artistiques manifestes, etc.
+### L'aspect sensibilisation
+Montrer les déchets produits pour faire comprendre l'importance du sujet, faire visiter les centres de tri et d'enfouissement (en rapport également avec la question du sens), mettre en scène les déchets produits dans des installations artistiques manifestes, etc.
 
 À noter que, tant pour la question du sens que pour la sensibilisation, des datavisualisations bien fichues pourraient être intéressantes.
 
