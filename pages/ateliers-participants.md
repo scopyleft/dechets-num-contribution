@@ -14,7 +14,7 @@ Rendus des ateliers du forum du 17 mars 2015
 
 -> [Atelier 6 : Rendre visible les déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Rendre-visible-les-dechets)
 
--> []()
+-> [Atelier 7 : COMMENT LE NUMERIQUE PEUT SERVIR L'URBANISME DANS LA GESTION ET LA PREVENTION DES DECHETS (Smart city, quartier intelligent...) ?](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Urbanisme-dechets-numerique)
 
 -> []()
 
