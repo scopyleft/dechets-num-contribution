@@ -27,10 +27,10 @@ Et quelques projets dans la veille de [l'étude pour des nouveaux concepts de d�
 -> [7 days of garbage, Californie, Etats-Unis](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/20/7-days-of-garbage/)
 
 Et dans la veille de [l'étude de Saint-Etienne Métropole](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-0):
-#25 Hôtel poubelle
-#26 [Archéologie domestique](http://legoville.net/archeologie_domestique.html)
-#34 Réanim
-#35 Tout sur roulettes
++ 25 Hôtel poubelle
++ 26 [Archéologie domestique](http://legoville.net/archeologie_domestique.html)
++ 34 Réanim
++ 35 Tout sur roulettes
 
 ## Objectifs :
 
