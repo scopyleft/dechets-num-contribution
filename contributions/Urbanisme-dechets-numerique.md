@@ -1,4 +1,4 @@
-# Atelier 7 : COMMENT LE NUMERIQUE PEUT SERVIR L'URBANISME DANS LA GESTION ET LA PREVENTION DES DECHETS (Smart city, quartier intelligent...) ?
+# Atelier 7 : comment le numérique peut servir l'urbanisme dans la prévention et la gestion des déchets (Smart city, quartier intelligent...) ?
 
 session 1 - espace vert
 
