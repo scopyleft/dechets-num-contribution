@@ -6,7 +6,7 @@ Les usages numériques à développer pour contribuer aux objectifs du plan dép
 
 ## Quelles sont les données actuellement disponibles ?
 
-Données potentiellement disponibles :
+### Données potentiellement disponibles :
 
     collecte
 
@@ -68,7 +68,7 @@ Données potentiellement disponibles :
 
     Liste des ressourceries
 
-Données disponibles :
+### Données disponibles :
 
 [Données "environnement" sur www.datalocale.fr - Ressourcerie numérique du Département de la Gironde](http://www.datalocale.fr/drupal7/searchpackages/?f[0]=im_field_concept%3A35466)
 
