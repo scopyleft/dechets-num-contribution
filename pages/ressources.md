@@ -14,11 +14,11 @@
 
 -> [Carte Umap/OpenStreetMap](http://umap.openstreetmap.fr/fr/map/dechets-et-numerique_31735#9/44.8383/-0.6317)
 
-### Cartes des tiers-lieux "numérique" en Aquitaine (espaces de co-working, fablabs, ...)
+### Cartes des tiers-lieux "numérique" (espaces de co-working, fablabs, ...)
 
--> [Carte de la Coopérative des Tiers-Lieux](http://coop.tierslieux.net/espace-ouverts-et-en-projets/)
+-> [Carte régionale des Tiers-Lieux](http://coop.tierslieux.net/espace-ouverts-et-en-projets/)
 
--> [Carte des nationale des FabLabs](http://www.makery.info/map-labs/)
+-> [Carte nationale des FabLabs](http://www.makery.info/map-labs/)
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
