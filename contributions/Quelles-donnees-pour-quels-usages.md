@@ -5,7 +5,8 @@
 Les usages numériques à développer pour contribuer aux objectifs du plan départemental de gestion des déchets non dangereux dépendent en partie des données disponibles ou des modalités permettant de les générer de manière collectives.
 
 ## Quelles sont les données actuellement disponibles ?
-typologie :
+
+Données potentiellement disponibles :
 
     collecte
 
@@ -66,6 +67,12 @@ typologie :
     Fréquentation / types d'usagers/ decheterie
 
     Liste des ressourceries
+
+Données disponibles :
+
+[Données "environnement" sur www.datalocale.fr - Ressourcerie numérique du Département de la Gironde](http://www.datalocale.fr/drupal7/searchpackages/?f[0]=im_field_concept%3A35466)
+
+[Données de Bordeaux Métropole](http://data.bordeaux-metropole.fr/themes)
 
 ## Demandes de données
 
