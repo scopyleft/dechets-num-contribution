@@ -45,6 +45,8 @@ Relativité des données d'un territoire à l'autre
 
 difficulté d'avoir un outil de comparaison des coûts du déchet
 
+[Référentiel national des coûts de la gestion des déchets - ADEME](http://www.sinoe.org/thematiques/consult/ss-theme/25)
+
 mettre en relation le coût du déchet et la notion de services associés
 
 Attention : si la collectivité ne se saisit pas de cette question, il risque d'y avoir d'ature sacteurs (google) qui vont s'en emparer
@@ -62,10 +64,12 @@ Story telling (scénarisation)
 
 ## famille positive, foyer témoin
 Exemples : 
-+ [Familles à énergie positive - PrioriTerre / ADEME](http://aquitaine.familles-a-energie-positive.fr/)
++ [Foyers témoins de l'USSGETOM](http://www.ussgetom.fr/16-actualites/54-les-foyers-temoins-font-leur-cinema.html)
++ [Foyers témoins du SEMOCTOM](http://www.semoctom.com/web/fr/43-les-operations-foyers-temoins.php)
 + [Pionniers du climat - Bordeaux Métropole](http://www.bordeaux-metropole.fr/plan-climat/les-pionniers-du-climat)
-+ [
++ [Familles à énergie positive - PrioriTerre / ADEME](http://aquitaine.familles-a-energie-positive.fr/)
++ [Foyers témoins du Grand Lyon](http://www.etvouscombien.com/foyers-temoins-des-grands-lyonnais-se-racontent/)
 
-    une seule information
+## une seule information
 
-    demander aux citoyens quelles données ils veulent avoir et procéder à un vote
+## demander aux citoyens quelles données ils veulent avoir et procéder à un vote
