@@ -8,11 +8,11 @@ Objectif : sensibiliser, transmettre l'information, réussir à dialoguer ensemb
 
 coconstruction de la décision publique
 
-Comment faire pour que des acteurs se saisissent du numétique
+Comment faire pour que des acteurs se saisissent du numétique ?
 
 Passer de la transformation de données brutes à la création de valeurs ajoutées
 
-Existence de SINOE (ADEME)
+Existence de [SINOE (ADEME)](http://www.sinoe.org/)
 
 Aujorud'hui, la donnée est dispersée, diffuse et protégée. 
 
@@ -60,7 +60,11 @@ Story telling (scénarisation)
 
 # 3 actions :
 
-    famille positive, foyer témoin
+## famille positive, foyer témoin
+Exemples : 
++ [Familles à énergie positive - PrioriTerre / ADEME](http://aquitaine.familles-a-energie-positive.fr/)
++ [Pionniers du climat - Bordeaux Métropole](http://www.bordeaux-metropole.fr/plan-climat/les-pionniers-du-climat)
++ [
 
     une seule information
 
