@@ -14,6 +14,8 @@ Intervenir sur les mentalités des consommateurs, revenir au bon sens
 
 "Partage ton frigo" : échanges de restes entre voisins
 
+Exemple : ["Des frigos dans la rue" - Berlin](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/12/01/foodsharing-des-frigos-dans-la-rue/)
+
 "zéro gâchis" : accompagnement des supermarchés dans la mise en valeur des aliments proche de la date de péremption, pour maximiser leur vente, pour faciliter l'étiquetage (chronophage)
 
 Cours de cuisine spécifiques organisés par les supermarchés pour utiliser les aliments en fin de vie, les restes...
@@ -38,3 +40,6 @@ Faire connaître les actions listées (et les ajouter à l'appli de Bdx-Métropo
 
 Reproduire la solution de suivi des composteurs du LabFab de Rennes
 -> [LabFab de Rennes](http://www.labfab.fr/portfolio/)
+
+Développer les Disco Soupes
+-> [Disco Soupe](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/22/disco-soupe/)
