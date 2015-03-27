@@ -2,7 +2,7 @@
 
 ### Pour continuer les échanges avec les participants
 
--> [dechets-num.slack.com](dechets-num.slack.com)
+-> [dechets-num.slack.com](https://gymkhana.slack.com/messages/general/files/F042L6AGD/)
 
 ### Pour suivre le plan d'actions
 
