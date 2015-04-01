@@ -43,6 +43,7 @@ Responsabilisation, droits et libertés vs. volonté / norme collectives de l'in
 # Application
 
 Un composteur collectif qui réclame des déchets à ses utilisateurs connectés en réseau social de collectivité. Pourrait s'appliquer à des objets à usage collectif (outils...)
+-> [Prototype de capteur "composteur collectif"](https://twitter.com/NFr21/status/581819960894349312)
 -> [LabFab de Rennes](http://www.labfab.fr/portfolio/)
 
 FINI !
