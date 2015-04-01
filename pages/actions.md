@@ -34,6 +34,7 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 
 Composteur connecté -> coup de fourche collectif
 
+-> [Prototype de capteur "composteur collectif"](https://twitter.com/NFr21/status/581819960894349312)
 
 # Les autres actions proposées mais non retenues
 
