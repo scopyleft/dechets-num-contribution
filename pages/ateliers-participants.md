@@ -3,6 +3,7 @@
 ## Mur des ateliers
 
 Afficher photos du mur
+ex. ![mur](https://framapic.org/9loGMGZ6v4J8/QoToIeaF)
 
 ## Pads* des ateliers
 
