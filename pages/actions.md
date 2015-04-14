@@ -1,4 +1,4 @@
-![actions](https://framapic.org/aunljixQJ270/J3vCciq9)
+![actions](https://framapic.org/SGB0UQjkieGP/g0jJJ1nT)
 
 # Les 4 actions retenues (2 ex-aequo)
 
