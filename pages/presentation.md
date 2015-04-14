@@ -1,6 +1,6 @@
 # FORUM OUVERT "DÉCHETS ET NUMÉRIQUE" : ENJEUX ET OPPORTUNITÉS
 
-![Forum]( https://lut.im/6ZNUXVhC/4dgsaIo4)
+![Forum](https://framapic.org/JR7VQyz7PawF/hwFoXwCq)
 
 ## Bienvenu(e) sur l'espace de contribution du forum ouvert du 17 mars 2015
 
