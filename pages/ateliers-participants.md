@@ -31,12 +31,7 @@ Rendus des ateliers (pour ceux qui ont remplis les pads mis à disposition) :
 
 -> [Liste et contacts des participants du forum du 17 mars 2015](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-4)
 
-Liste sur l'espace collaboratif "DECHETS" de la commission consultative du plan des déchets non dangereux, dans le dossier : Révision plan > Groupes de travail > GT7 - Intergroupe
-
-1ère connexion : compte utilisateur = mot de passe = première lettre du prénom (même s’il est composé) + nom complet (même s’il est composé). Tout attaché et tout en minuscule.
-Exemple pour Jean-Paul DUPONT-DURAND
-Compte utilisateur : jdupont-durand
-Mot de passe : jdupont-durand
+Liste sur l'espace collaboratif "DECHETS" de la commission consultative du plan des déchets non dangereux, dans le dossier : Révision plan > Groupes de travail > GT7 - Intergroupe (1ère connexion : compte utilisateur = mot de passe = première lettre du prénom (même s’il est composé) + nom complet (même s’il est composé). Tout attaché et tout en minuscule. Exemple pour Jean-Paul DUPONT-DURAND / Compte utilisateur : jdupont-durand / Mot de passe : jdupont-durand)
 
 
 
