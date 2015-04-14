@@ -1,6 +1,6 @@
 # FORUM OUVERT "DÉCHETS ET NUMÉRIQUE" : ENJEUX ET OPPORTUNITÉS
 
-![Forum](https://www.flickr.com/photos/132069585@N04/16901529636)
+![Forum](https://www.dropbox.com/s/qws474sgbw4kfb3/IMG_2928.JPG?dl=0)
 
 ## Bienvenu(e) sur l'espace de contribution du forum ouvert du 17 mars 2015
 
