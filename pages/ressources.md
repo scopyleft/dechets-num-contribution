@@ -22,7 +22,7 @@
 
 -> [Carte nationale des FabLabs](http://www.makery.info/map-labs/)
 
-![Ballon](https://framapic.org/NoSon27kqnx9/oBYPvmsn)
+![Tiers-lieux](https://framapic.org/Kl81rbFqDvuq/kqkWpRl6)
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
