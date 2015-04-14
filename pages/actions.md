@@ -1,3 +1,5 @@
+![actions](https://framapic.org/aunljixQJ270/J3vCciq9)
+
 # Les 4 actions retenues (2 ex-aequo)
 
 ## 1- Je recycle combien ?
