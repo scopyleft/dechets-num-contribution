@@ -29,6 +29,6 @@ Rendus des ateliers (pour ceux qui ont remplis les pads mis à disposition) :
 
 # Participants
 
--> [Liste et contacts des participants du forum du 17 mars 2015](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-4)
+-> [Liste et contacts des participants du forum du 17 mars 2015](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-4) -> Liste sur l'espace collaboratif "DECHETS" de la commission consultative du plan des déchets non dangereux dans le dossier : Révision plan > Groupes de travail > GT7 - Intergroupe
 
 
