@@ -22,6 +22,8 @@
 
 -> [Carte nationale des FabLabs](http://www.makery.info/map-labs/)
 
+![Ballon](https://framapic.org/NoSon27kqnx9/oBYPvmsn)
+
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
 + Appel à projets "déchets et numérique" du Département de la Gironde : date limite de dépôt des candidatures = lundi 4 mai 2015 -> [Lien](http://www.gironde.fr/jcms/cgw_74981/appel-a-projets-dechets-et-numerique)
