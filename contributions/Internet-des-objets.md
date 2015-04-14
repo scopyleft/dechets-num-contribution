@@ -6,6 +6,8 @@ Objectifs : réduction réelle des déchets
 
 ## Norbert fait passer des octets aux atomes avec une carte Arduino
 
+![Arduino](https://framapic.org/TnKL6k9a62d0/NnnFLyxR)
+
 On peut lui faire faire n'importe quoi avec des données en connectant des capteurs
 
 Mais quoi qui ai du sens ? Quelle finalité ?
