@@ -1,5 +1,7 @@
 # Ressources
 
+![Ballon](https://framapic.org/ks1QW9wto4Js/qiuA9Yq5)
+
 ### Pour continuer les échanges avec les participants
 
 -> [dechets-num.slack.com](https://gymkhana.slack.com/messages/general/files/F042L6AGD/)
