@@ -6,10 +6,6 @@
 
 -> [dechets-num.slack.com](https://gymkhana.slack.com/messages/general/files/F042L6AGD/)
 
-### Pour suivre le plan d'actions
-
--> [trello](https://trello.com/b/ADdL7CIZ/dechets-num)
-
 ## Cartes
 
 ### Crowdsourcing pour une cartographie "déchets et numérique" ouverte en Gironde : recycleries, déchèteries, points d'apport volontaire, tiers-lieux, fablabs, ...
