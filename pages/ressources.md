@@ -47,7 +47,7 @@ MODE D'EMPLOI POUR CONTRIBUER À L'ÉTAT DES LIEUX :
 - Quelques mots-clés
 > Associez en pièce-jointe au moins une image du projet : Image au format jpeg d’une qualité suffisante (poids d’image d’au moins 100ko), nommée de la manière suivante : nomduprojet_nomdelapersonnequipublie_jour_mois_annee.jpg
 
-![Ecoelce](https://framapic.org/l9tuueM80Ydo/SgSt94Wg)
+![Ecoelce](https://framapic.org/GFG8sOTNmofj/0YM8fupK)
 
 ## Glossaires
 
