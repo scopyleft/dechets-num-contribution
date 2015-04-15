@@ -22,21 +22,21 @@
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
-+ Appel à projets "déchets et numérique" du Département de la Gironde : date limite de dépôt des candidatures = lundi 4 mai 2015 -> [Lien](http://www.gironde.fr/jcms/cgw_74981/appel-a-projets-dechets-et-numerique)
+### + Appel à projets "déchets et numérique" du Département de la Gironde : date limite de dépôt des candidatures = lundi 4 mai 2015 -> [Lien](http://www.gironde.fr/jcms/cgw_74981/appel-a-projets-dechets-et-numerique)
 
-+ Appel à manifestation d'intérêt - AMI - "Numérique" de la Région Aquitaine : date limite de dépôt des candidatures = vendredi 12 juin 2015 -> [Lien](http://les-aides.aquitaine.fr/article1141.html)
+### + Appel à manifestation d'intérêt - AMI - "Numérique" de la Région Aquitaine : date limite de dépôt des candidatures = vendredi 12 juin 2015 -> [Lien](http://les-aides.aquitaine.fr/article1141.html)
 
-+ Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
+### + Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
 
 ## Veille de solutions innovantes
 
-Veille, à travers le monde, de solutions innovantes, socialement ou technologiquement, en matière de déchets. Veille collaborative réalisée dans le cadre de la réflexion collaborative pour des nouveaux concepts de déchèteries en Gironde. 
+### Veille, à travers le monde, de solutions innovantes, socialement ou technologiquement, en matière de déchets. Veille collaborative réalisée dans le cadre de la réflexion collaborative pour des nouveaux concepts de déchèteries en Gironde. 
 
 ![Taïwan](https://framapic.org/n3Nk3KgCdggl/w0dPzLH9)
 
 -> [Lien](https://veillenouveauxconceptsdecheteries.wordpress.com/)
 
-MODE D'EMPLOI POUR CONTRIBUER À CETTE VEILLE :
+### MODE D'EMPLOI POUR CONTRIBUER À CETTE VEILLE :
 
 > Envoyez-nous vos contributions à l’adresse mail : equipedesign.gironde@gmail.com
 
@@ -52,6 +52,6 @@ MODE D'EMPLOI POUR CONTRIBUER À CETTE VEILLE :
 
 ## Glossaires
 
--> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
+### -> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
 
--> [Glossaire Numérique - A compléter](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-numerique)
+### -> [Glossaire Numérique - A compléter](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-numerique)
