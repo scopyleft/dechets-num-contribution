@@ -1,4 +1,4 @@
-![actions](https://framapic.org/QYZCCyWicME6/wFoXwCql)
+![actions](https://framapic.org/B0UQjkieGPLR/lWGGjh9M)
 
 # Les 4 actions retenues (2 ex-aequo)
 
@@ -37,6 +37,8 @@ Gain de points pour ces performances / Dépense des points sur des activités / 
 Composteur connecté -> coup de fourche collectif
 
 -> [Prototype de capteur "composteur collectif"](https://twitter.com/NFr21/status/581819960894349312)
+
+![actions](https://framapic.org/QYZCCyWicME6/wFoXwCql)
 
 # Les autres actions proposées mais non retenues
 
