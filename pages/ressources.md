@@ -47,6 +47,8 @@ MODE D'EMPLOI POUR CONTRIBUER À L'ÉTAT DES LIEUX :
 - Quelques mots-clés
 > Associez en pièce-jointe au moins une image du projet : Image au format jpeg d’une qualité suffisante (poids d’image d’au moins 100ko), nommée de la manière suivante : nomduprojet_nomdelapersonnequipublie_jour_mois_annee.jpg
 
+![Ecoelce](https://framapic.org/l9tuueM80Ydo/SgSt94Wg)
+
 ## Glossaires
 
 -> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
