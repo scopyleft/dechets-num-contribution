@@ -22,11 +22,11 @@
 
 ## Appels à projets, Appels à Manifestation d'Intérêt, ...
 
-### + Appel à projets "déchets et numérique" du Département de la Gironde : date limite de dépôt des candidatures = lundi 4 mai 2015 -> [Lien](http://www.gironde.fr/jcms/cgw_74981/appel-a-projets-dechets-et-numerique)
+### Appel à projets "déchets et numérique" du Département de la Gironde : date limite de dépôt des candidatures = lundi 4 mai 2015 -> [Lien](http://www.gironde.fr/jcms/cgw_74981/appel-a-projets-dechets-et-numerique)
 
-### + Appel à manifestation d'intérêt - AMI - "Numérique" de la Région Aquitaine : date limite de dépôt des candidatures = vendredi 12 juin 2015 -> [Lien](http://les-aides.aquitaine.fr/article1141.html)
+### Appel à manifestation d'intérêt - AMI - "Numérique" de la Région Aquitaine : date limite de dépôt des candidatures = vendredi 12 juin 2015 -> [Lien](http://les-aides.aquitaine.fr/article1141.html)
 
-### + Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
+### Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
 
 ## Veille de solutions innovantes
 
