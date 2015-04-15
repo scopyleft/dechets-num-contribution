@@ -28,6 +28,25 @@
 
 + Appel à projets "Le numérique au service de l'économie collaborative" de la Région Aquitaine : date limite de dépôt des candidatures = mercredi 1er juillet 2015 -> [Lien](http://les-aides.aquitaine.fr/article1154.html)
 
+## Veille de solutions innovantes
+
+Veille, à travers le monde, de solutions innovantes, socialement ou technologiquement, en matière de déchets. Veille collaborative réalisée dans le cadre de la réflexion collaborative pour des nouveaux concepts de déchèteries en Gironde. 
+
+-> [Lien](https://veillenouveauxconceptsdecheteries.wordpress.com/)
+
+MODE D'EMPLOI POUR CONTRIBUER À L'ÉTAT DES LIEUX :
+
+> Envoyez-nous vos contributions à l’adresse mail : equipedesign.gironde@gmail.com
+
+> Dans le corps du mail, indiquez :
+- Le nom du projet
+- Le nom du porteur du projet
+- Un texte présentant brièvement le projet
+- Un texte présentant en quoi il est intéressant au regard de l’étude
+- La source (auteur du projet, partenaires, liens web)
+- Quelques mots-clés
+> Associez en pièce-jointe au moins une image du projet : Image au format jpeg d’une qualité suffisante (poids d’image d’au moins 100ko), nommée de la manière suivante : nomduprojet_nomdelapersonnequipublie_jour_mois_annee.jpg
+
 ## Glossaires
 
 -> [Glossaire Déchets](http://dechets-num.meteor.com/contributions/scopyleft/dechets-num-contribution/Glossaire-dechets)
