@@ -50,4 +50,6 @@ Un composteur collectif qui réclame des déchets à ses utilisateurs connectés
 -> [Prototype de capteur "composteur collectif"](https://twitter.com/NFr21/status/581819960894349312)
 -> [LabFab de Rennes](http://www.labfab.fr/portfolio/)
 
+![LabFab](https://framapic.org/u4PV5F7ePZpf/1hSi93M2)
+
 FINI !
