@@ -16,6 +16,8 @@ Intervenir sur les mentalités des consommateurs, revenir au bon sens
 
 Exemple : ["Des frigos dans la rue" - Berlin](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/12/01/foodsharing-des-frigos-dans-la-rue/)
 
+![Frigos](https://framapic.org/by8ILmaYaTtz/H38fay42)
+
 "zéro gâchis" : accompagnement des supermarchés dans la mise en valeur des aliments proche de la date de péremption, pour maximiser leur vente, pour faciliter l'étiquetage (chronophage)
 
 Cours de cuisine spécifiques organisés par les supermarchés pour utiliser les aliments en fin de vie, les restes...
