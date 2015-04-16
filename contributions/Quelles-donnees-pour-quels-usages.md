@@ -84,6 +84,8 @@ cartographie et structuration du réseau des boutiques de seconde main
 
 Comment créer les données qui n'existent pas ? 
 
+![Crowdsourcing](https://framapic.org/P6Esab088XRn/9hxFyeDI)
+
 ## Objectifs :
 
 Identifier les données disponibles et le dispositif permettant de les rassembler
