@@ -1,5 +1,7 @@
 # Atelier 6 : rendre visible les déchets
 
+![Garbage](https://framapic.org/RCXs3hA2gXUa/X7lPts4C)
+
 ## Problématique : 
 
 Comment rendre visible la réalité des déchets pour favoriser la prise de conscience et favoriser le passage à l'action ?
