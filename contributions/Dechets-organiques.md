@@ -45,3 +45,5 @@ Reproduire la solution de suivi des composteurs du LabFab de Rennes
 
 Développer les Disco Soupes
 -> [Disco Soupe](https://veillenouveauxconceptsdecheteries.wordpress.com/2014/11/22/disco-soupe/)
+
+![Discosoupe](https://framapic.org/by8ILmaYaTtz/H38fay42)
