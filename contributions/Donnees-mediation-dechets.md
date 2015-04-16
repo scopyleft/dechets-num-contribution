@@ -70,6 +70,8 @@ Exemples :
 + [Familles à énergie positive - PrioriTerre / ADEME](http://aquitaine.familles-a-energie-positive.fr/)
 + [Foyers témoins du Grand Lyon](http://www.etvouscombien.com/foyers-temoins-des-grands-lyonnais-se-racontent/)
 
+![SEMOCTOM](https://framapic.org/UomyQ9Oxc9yS/yiaxPlfE)
+
 ## une seule information
 
 ## demander aux citoyens quelles données ils veulent avoir et procéder à un vote
