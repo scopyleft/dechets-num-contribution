@@ -40,6 +40,8 @@ Et dans la veille de [l'étude de Saint-Etienne Métropole](http://www.gironde.f
 + 34 Réanim
 + 35 Tout sur roulettes
 
+![Archéologie](https://framapic.org/EPdR6KqbgOQc/lFmiWZMs)
+
 ## Objectifs :
 
  
