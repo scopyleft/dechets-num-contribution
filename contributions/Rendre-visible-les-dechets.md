@@ -25,6 +25,8 @@ Montrer les déchets produits pour faire comprendre l'importance du sujet, faire
 
 Et quelques projets dans la veille de [l'étude pour des nouveaux concepts de déchèteries en Gironde](http://www.gironde.fr/ec/jcms/prod7_177017/dechets#refresh-1) qui parlent de près ou de loin de ces sujets :
 
+![Vortex](https://framapic.org/2snM6Ss9wI18/a4tu8s8H)
+
 -> [Vortex, La Haye, Pays-Bas](https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/08/vortex/)
 
 -> [Green Loop, New-York, Etats-Unis](https://veillenouveauxconceptsdecheteries.wordpress.com/2015/01/12/green-loop/)
