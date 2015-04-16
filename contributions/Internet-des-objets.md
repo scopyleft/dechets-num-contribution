@@ -30,6 +30,8 @@ La donnée peut aussi rester privée et avoir de l'intérêt : sensibilisation, 
 
 Ex. : Helsinki, taille de la fumée d'incinération
 
+![nuage vert](https://framapic.org/P6Esab088XRn/9hxFyeDI)
+
 Ex. : Copenhague, comptage des vélos et infographie artistique
 
 Entrer ou pas dans la ludification par comparaison de comportements, de scores, concours... les collectivité hésitent.
