@@ -12,6 +12,8 @@ Comment faire pour que des acteurs se saisissent du numétique ?
 
 Passer de la transformation de données brutes à la création de valeurs ajoutées
 
+![Transport](https://framapic.org/Q2jUpe7J5uGH/XB75A2gw)
+
 Existence de [SINOE (ADEME)](http://www.sinoe.org/)
 
 Aujorud'hui, la donnée est dispersée, diffuse et protégée. 
