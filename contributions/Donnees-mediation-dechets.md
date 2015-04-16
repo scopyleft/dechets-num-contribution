@@ -16,6 +16,8 @@ Passer de la transformation de données brutes à la création de valeurs ajout�
 
 Existence de [SINOE (ADEME)](http://www.sinoe.org/)
 
+![SINOE](https://framapic.org/rYawLxXmYrMx/ZxTT0ua6)
+
 Aujorud'hui, la donnée est dispersée, diffuse et protégée. 
 
 ## Enjeu : trouver la donnée, la rendre accessible et de la mettre en valeur.
@@ -48,6 +50,8 @@ Relativité des données d'un territoire à l'autre
 difficulté d'avoir un outil de comparaison des coûts du déchet
 
 [Référentiel national des coûts de la gestion des déchets - ADEME](http://www.sinoe.org/thematiques/consult/ss-theme/25)
+
+![Coûts](https://framapic.org/Ax493sM5JnwK/njUA3Y72)
 
 mettre en relation le coût du déchet et la notion de services associés
 
