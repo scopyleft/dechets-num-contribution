@@ -2,7 +2,7 @@
 
 Objectifs : réduction réelle des déchets
 
--> [Projet 6element](https://vallettea.github.io/talks/papis.io.html#slide-0) ANTS Alexandre Valette (@valettea)
+-> [Projet 6element](https://vallettea.github.io/talks/papis.io.html#slide-0) ANTS Alexandre Vallette (@vallettea)
 
 ## Norbert fait passer des octets aux atomes avec une carte Arduino
 
