@@ -59,7 +59,7 @@ Attention : si la collectivité ne se saisit pas de cette question, il risque d'
 
 ## Enjeu : le rôle de la collectivité / notion de tiers de confiance par rapport à l'interprétation des données
 
-## n'y a t'il pas un jeu type de données qui doit être ouvert et qui doit inscrit dans la constitution.
+## N'y a t'il pas un jeu type de données qui doit être ouvert et inscrit dans la constitution ?
 
 Pécision sur l'objectif : au delà de la sensibilisation, il s'agit de réduire les déchets et de mobiliser les citoyens vers cet objectif.
 Pour capter l'intérêt des citoyens, attirer leur attention, il n'est peut-être pas besoin d'aller sur un outil trop évolué
